@@ -3,10 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>ru.vsu.cs</groupId>
-    <artifactId>flask-game</artifactId>
+    <artifactId>bot-playground</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>flask-game</name>
-    <description>flask-game</description>
+    <name>bot-playground</name>
+    <description>Simple small application to play with the inspections bot</description>
     <packaging>jar</packaging>
     <properties>
         <maven.compiler.target>11</maven.compiler.target>
