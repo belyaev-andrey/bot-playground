@@ -3,4 +3,5 @@ failThreshold: 100
 profile:
   name: empty
 include:
+  - name : ALL
   - name : com.haulmont.jpb.LombokDataInspection
