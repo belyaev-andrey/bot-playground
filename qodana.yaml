@@ -3,5 +3,11 @@ failThreshold: 100
 profile:
   name: empty
 include:
-  - name : ALL
   - name : com.haulmont.jpb.LombokDataInspection
+  - name : com.haulmont.jpb.DuplicateVersionAnnotationInspection
+  - name : com.haulmont.jpb.UnsupportedTypeWithoutConverterInspection
+  - name : com.haulmont.jpb.LombokAllArgsInspection
+  - name : com.haulmont.jpb.LombokBuilderInspection
+  - name : com.haulmont.jpb.LombokToStringIncludeInspection
+  - name : com.haulmont.jpb.ConverterNotAnnotatedInspection
+  - name : com.haulmont.jpb.SpringDataModifyingAnnotationMissing
