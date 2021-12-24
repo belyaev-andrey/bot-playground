@@ -1,7 +1,7 @@
 version: 1.0
 failThreshold: 100
 profile:
-  name: empty
+  name: qodana.recommended
 include:
   - name : com.haulmont.jpb.LombokDataInspection
   - name : com.haulmont.jpb.DuplicateVersionAnnotationInspection
