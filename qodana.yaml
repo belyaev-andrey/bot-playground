@@ -1,0 +1,6 @@
+version: 1.0
+failThreshold: 100
+profile:
+  name: empty
+include:
+  - name : com.haulmont.jpb.LombokDataInspection
